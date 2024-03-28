@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Appointment-app/static/css/main.ce5f0183.css",
+    "main.js": "/Appointment-app/static/js/main.e30699b2.js",
+    "static/js/498.b6a1ebf8.chunk.js": "/Appointment-app/static/js/498.b6a1ebf8.chunk.js",
+    "static/js/703.b75db5fb.chunk.js": "/Appointment-app/static/js/703.b75db5fb.chunk.js",
+    "static/js/513.39f6af8f.chunk.js": "/Appointment-app/static/js/513.39f6af8f.chunk.js",
+    "static/js/787.5ff5ed8d.chunk.js": "/Appointment-app/static/js/787.5ff5ed8d.chunk.js",
+    "static/media/CM appointment.png": "/Appointment-app/static/media/CM appointment.95ddf4c3f6162db03db6.png",
+    "static/media/contactustopbg.png": "/Appointment-app/static/media/contactustopbg.4facad0a5f3492cda3db.png",
+    "static/media/Logout.gif": "/Appointment-app/static/media/Logout.b9d8858acb9c300af75d.gif",
+    "static/media/Dronebg.png": "/Appointment-app/static/media/Dronebg.c766f5fbbee09f0dc20e.png",
+    "static/media/aboutustopbg.png": "/Appointment-app/static/media/aboutustopbg.42a7e85ab754790aa776.png",
+    "static/media/CGgovtlogo.png": "/Appointment-app/static/media/CGgovtlogo.070d76e80090cb732221.png",
+    "static/media/appointmodalbg.png": "/Appointment-app/static/media/appointmodalbg.84f2cb3fe06ff6e50e35.png",
+    "static/media/CM.png": "/Appointment-app/static/media/CM.87e0c42d4c071986fa4a.png",
+    "static/media/pandummy.png": "/Appointment-app/static/media/pandummy.104d87522f411a7d1485.png",
+    "static/media/Dronepagetopbg.png": "/Appointment-app/static/media/Dronepagetopbg.aaf94f35a3237c77b8e0.png",
+    "static/media/BJP_logo.png": "/Appointment-app/static/media/BJP_logo.888d1c756c06cc5e0a02.png",
+    "static/media/investment_option_M_70.png": "/Appointment-app/static/media/investment_option_M_70.def5a355c0472301ca4a.png",
+    "static/media/giphy.gif": "/Appointment-app/static/media/giphy.ce09e4a209cd3c32801d.gif",
+    "static/media/Model_port_M_80.png": "/Appointment-app/static/media/Model_port_M_80.1a317bac3a44226ef872.png",
+    "static/media/acievmenttopbg.jpg": "/Appointment-app/static/media/acievmenttopbg.c662fe1b2ff51f39bc79.jpg",
+    "static/media/Facilities_top_bg.jpg": "/Appointment-app/static/media/Facilities_top_bg.e25a39bd9bf5803e769e.jpg",
+    "static/media/Patenttopbg1.jpg": "/Appointment-app/static/media/Patenttopbg1.5b02b1036cfee8a6c6c9.jpg",
+    "static/media/eventtopbg.jpg": "/Appointment-app/static/media/eventtopbg.e527621328ede09b2d40.jpg",
+    "static/media/gallery_topbg.jpg": "/Appointment-app/static/media/gallery_topbg.8a08a32de429e4fb43bd.jpg",
+    "static/media/Dummyprofilepic.png": "/Appointment-app/static/media/Dummyprofilepic.e812cc7f79fb70848cb5.png",
+    "index.html": "/Appointment-app/index.html",
+    "static/media/mobile_menu_icon.svg": "/Appointment-app/static/media/mobile_menu_icon.34b6d4f73e126d6b67d3.svg",
+    "main.ce5f0183.css.map": "/Appointment-app/static/css/main.ce5f0183.css.map",
+    "main.e30699b2.js.map": "/Appointment-app/static/js/main.e30699b2.js.map",
+    "498.b6a1ebf8.chunk.js.map": "/Appointment-app/static/js/498.b6a1ebf8.chunk.js.map",
+    "703.b75db5fb.chunk.js.map": "/Appointment-app/static/js/703.b75db5fb.chunk.js.map",
+    "513.39f6af8f.chunk.js.map": "/Appointment-app/static/js/513.39f6af8f.chunk.js.map",
+    "787.5ff5ed8d.chunk.js.map": "/Appointment-app/static/js/787.5ff5ed8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce5f0183.css",
+    "static/js/main.e30699b2.js"
+  ]
+}
