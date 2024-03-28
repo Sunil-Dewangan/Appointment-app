@@ -173,7 +173,7 @@ const Navuser = () => {
                             {/* <Link to="/Banner" className='nav-link-black mt-1'>Banner</Link> */}
                             <FaUserAlt className="navuser_black" style={{ marginLeft: "-50px" }} />
                             <NavDropdown title={FaUserAlt} id="basic-nav-dropdown">
-                                <NavDropdown.Item href="" onClick={() => setChangepasswordmodal(true)}>Change Password</NavDropdown.Item>
+                                {/* <NavDropdown.Item href="" onClick={() => setChangepasswordmodal(true)}>Change Password</NavDropdown.Item> */}
                                 <NavDropdown.Item href="#/Logout">
                                     Logout
                                 </NavDropdown.Item>
@@ -249,7 +249,7 @@ const Navuser = () => {
                                         </Nav.Link> */}
                                         <FaUserAlt className="navuser_black" />
                                         <NavDropdown title={FaUserAlt} id="basic-nav-dropdown">
-                                            <NavDropdown.Item href="" onClick={() => setChangepasswordmodal(true)}>Change Password</NavDropdown.Item>
+                                            {/* <NavDropdown.Item href="" onClick={() => setChangepasswordmodal(true)}>Change Password</NavDropdown.Item> */}
                                             <NavDropdown.Item href="#/Logout">
                                                 Logout
                                             </NavDropdown.Item>
